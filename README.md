@@ -55,9 +55,9 @@ To replicate or run the project, the following tools and libraries are required:
 •	AWS CLI: For interacting with AWS services from the command line.
 
 
-**How to Run**
+**How to Run
 
-How to Run
+
 1.	Set up Apache Kafka on an EC2 instance or any other server. Create a Kafka topic for streaming stock market data.
 2.	Run the Producer: Use the provided Python script to simulate stock market data and produce it to Kafka.
       •	The script reads the stock_market_data.csv file and sends data to the Kafka topic.
